@@ -28,17 +28,17 @@ Programming & Analysis
 
 Python (Pandas, NumPy, Matplotlib, Seaborn)
 
-Databases
+  Databases
 
-PostgreSQL
+  PostgreSQL
 
-MySQL
+  MySQL
 
-SQL Server
+  SQL Server
 
 Data Visualization
 
-Power BI
+  Power BI
 
 Reporting & Presentation
 
@@ -57,96 +57,96 @@ Verified schema, data types, and basic structure
 
 2. Exploratory Data Analysis (EDA)
 
-Summary statistics
+  Summary statistics
 
-Missing value analysis
+  Missing value analysis
 
-Distribution and trend analysis
+  Distribution and trend analysis
 
-Outlier detection
+  Outlier detection
 
 3. Data Cleaning & Preparation
 
-Handled missing and inconsistent values
+  Handled missing and inconsistent values
 
-Renamed and standardized columns
+  Renamed and standardized columns
 
-Created derived features for analysis
+  Created derived features for analysis
 
-Ensured data readiness for SQL and BI tools
+  Ensured data readiness for SQL and BI tools
 
 4. SQL Analysis
 
-Imported cleaned data into:
+  Imported cleaned data into:
 
-PostgreSQL
+  PostgreSQL
 
-MySQL
+  MySQL
 
-SQL Server
+  SQL Server
 
-Executed queries for:
+**Executed queries for:
+**
+   Customer segmentation
 
-Customer segmentation
+   Aggregations and KPIs
 
-Aggregations and KPIs
-
-Business-focused insights
+   Business-focused insights
 
 5. Dashboard Development (Power BI)
 
-Connected Power BI to the database
+    Connected Power BI to the database
 
-Built interactive visuals:
+   Built interactive visuals:
 
-KPIs
+     KPIs
 
-Customer segments
+    Customer segments
 
-Trends and comparisons
+   Trends and comparisons
 
 Applied filters and slicers for dynamic analysis
 
 6. Reporting & Presentation
 
-Created a structured analytical report
+  Created a structured analytical report
 
-Designed a professional presentation using Gamma
+  Designed a professional presentation using Gamma
 
-Focused on storytelling and actionable insights
+  Focused on storytelling and actionable insights
 
 📈 Dashboard Highlights
 
-Customer segmentation overview
+  Customer segmentation overview
 
-Purchase behavior trends
+  Purchase behavior trends
 
-Key performance indicators (KPIs)
+  Key performance indicators (KPIs)
 
-Interactive filters for deeper insights
+  Interactive filters for deeper insights
 
-(Power BI .pbix file included in the repository)
+  (Power BI .pbix file included in the repository)
 
 📊 Results & Insights
 
-Identified customer segments based on purchase behavior
+  Identified customer segments based on purchase behavior
 
-Highlighted high-value and repeat customers
+  Highlighted high-value and repeat customers
 
-Detected trends useful for business decision-making
+  Detected trends useful for business decision-making
 
-Provided data-driven recommendations through visuals
+  Provided data-driven recommendations through visuals
 
 ▶️ How to Run the Project
 Prerequisites
 
-Python 3.x
+  Python 3.x
 
-PostgreSQL / MySQL / SQL Server
+  PostgreSQL / MySQL / SQL Server
 
-Power BI Desktop
+  Power BI Desktop
 
-Steps
+  Steps
 
 Clone the repository:
 
